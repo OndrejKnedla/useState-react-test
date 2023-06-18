@@ -1,0 +1,17 @@
+.txt-btn-changer{
+    display: flex;
+    flex-direction: column;
+}
+
+.txt-btn-changer h2{
+    text-align: center;
+    color: #91BBF2;
+}
+
+.txt-btn-changer button{
+    background-color: #035AA6;
+    color: #91BBF2;
+    border: none;
+    margin: 5px 0px;
+    padding: 3px 0px;
+}
